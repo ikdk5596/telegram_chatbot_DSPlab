@@ -24,6 +24,7 @@ e-mail : ikdk5559@naver.com
 # Future Works
 
 LSTM 모델 적용
+
 음성 합성 기능 추가
 
 

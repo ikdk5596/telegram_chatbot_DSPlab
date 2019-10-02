@@ -1,8 +1,11 @@
 # Telegram ChatBot Using Python
 
 Author : sanghong kim
+
 Affiliation : DSP Lab, Inha University
+
 e-mail : ikdk5559@naver.com
+
 
 # ETRI 음성인식을 적용한 간단한 ChatBot
 
@@ -17,10 +20,12 @@ e-mail : ikdk5559@naver.com
 
 4. main.py 실행
 
+
 # Future Works
 
 LSTM 모델 적용
 음성 합성 기능 추가
+
 
 # References
 https://core.telegram.org/bots/api
